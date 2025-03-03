@@ -19,7 +19,15 @@ namespace Hello_Word
 
         private void btnGo_Click(object sender, EventArgs e)
         {
-            txtShow.Text = "Hello World!"; //你可以直接複製貼過去
+            txtShow.Text = "113153106"; //你可以直接複製貼過去
+            txtShow1.Text = "黃郁堯";
+            txtShow3.Text = "應啦!";
+            txtShow2.Text = "資硬";
+        }
+
+        private void txtShow_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
